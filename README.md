@@ -13,4 +13,4 @@ which then expand to reveal additional content.</p>
 
 ###
 <h1>Demo</h1>
-<p>You can see a live demo of this project <a href="https://expandingcards-eight.vercel.app/">here</a></p>
+<p>You can see a live demo of this project <a href="https://expandingcards-eight.vercel.app/" target="_blank">here</a></p>
